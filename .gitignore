@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Configuración de base de datos local###
+.env
+.env.*
+application.properties
+application.yml
